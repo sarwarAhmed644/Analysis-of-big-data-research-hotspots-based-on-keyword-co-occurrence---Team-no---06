@@ -1,6 +1,15 @@
 # Analysis of Big Data Research Hotspots Based on Keyword Co-occurrence
 
 This repository contains the project work for identifying research hotspots in the **Big Data** domain by analysing keyword co-occurrence networks built from scholarly publication metadata.
+## Team Details
+
+**Team Number:** 06
+
+| # | Name | Student ID |
+|---|------|------------|
+| 1 | Sarwar Ahmed Hussain | 160923750050 |
+| 2 | Mohd Fahad Ahmed | 160923750037 |
+| 3 | Mohammed Abdul Nafay | 160923750048 |
 
 ## Design-Phase Documents
 
